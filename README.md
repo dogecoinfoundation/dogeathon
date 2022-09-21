@@ -10,7 +10,13 @@ Simple create clone this repo, inside `/teams/` you will see a file called `doge
 
 >**dogecoin.json** exemple file
 
-    [ { name: "your team name", desc: "team description here", hackers_github_profiles: ["your github user 1","your github user 2", "etc..."], repository: "your-github-repository-url", recruiting_members: true } ]
+    [ {
+	"name": "your team name",
+	"desc": "team description here",
+	"hackers_github_profiles": ["your github user 1", "your github user 2", "etc..."],
+	"repository": "your-github-repository-url",
+	"recruiting_members": true
+}]
 
 >**name:** insert your team name
 
