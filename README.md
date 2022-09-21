@@ -1,3 +1,5 @@
+![Dogeathon](dogeathonr.png)
+
 # Dogeathon Teams
 
 Welcome to the Dogeathon Teams Setup
