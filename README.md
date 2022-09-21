@@ -1,0 +1,2 @@
+# dogeathon
+Dogeathon Teams Setup
