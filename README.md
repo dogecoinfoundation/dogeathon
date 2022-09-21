@@ -6,7 +6,7 @@ Here shibes will be able to submit their teams to be ready to the event.
 
 # How to submit a team?
 
-Simple create clone this repo, inside `/teams/` you will see a file called `dogecoin.json` duplicate the file and rename it with your team name without any special characters or spaces, inside the file change all settings to your own and submit a PR with your team to be included on the event.
+Simple create clone this repo, inside `/teams/` you will see a file called `dogecoin.json` duplicate the file and rename it to your team name without any special characters or spaces, inside the file change all settings to your own and submit a PR with your team to be included on the event.
 
 >**dogecoin.json** exemple file
 
